@@ -70,7 +70,9 @@
     https://github.com/acdlite/react-fiber-architecture
 
 
-
+# Two types of Routing on web apps
+  - Clinet Side 
+  - Server Side
 
 
 

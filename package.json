@@ -1,9 +1,9 @@
 {
   "name": "namastereact",
   "version": "1.0.0",
-  "description": "This is namste react by Ayan Ansuman",  
+  "description": "This is namste react by Ayan Ansuman",
   "scripts": {
-    "start" : "parcel index.html",
+    "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest"
   },
@@ -24,9 +24,11 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "router-dom": "^2.2.11"
   },
-  "browserslist":[
-    "last 5 versions"   
+  "browserslist": [
+    "last 5 versions"
   ]
 }
